@@ -1,0 +1,8 @@
+namespace jwtWebApiTutorial 
+{
+  public enum ETipoUsuario
+  {
+    ADM,
+    USR
+  }
+}
